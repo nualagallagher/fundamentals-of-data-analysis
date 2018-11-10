@@ -7,7 +7,7 @@ Anscombe's Quartet is a great demonstration that datasets that are very similar 
 
 
 ##Running the python script in Jupyter Notebook:
-To run the script to invesigate the data of Anscombe's Quarteet you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python). You must also download the Iris data set (https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) and save the file as **Iris.csv**.
+To run the script to invesigate the data of Anscombe's Quarteet you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python).
 
 1. Please find the script in the file fundamentals of data analysis assignment.ipynb within the Fundamentals of Data Analysis Depository. Copy this code and save to a new file or download it. Name it as you desire
 2. Open Visual Studio Code (VSC).
@@ -17,3 +17,8 @@ To run the script to invesigate the data of Anscombe's Quarteet you must have al
 6. You can run the notebook document step-by-step (one cell a time) by clicking on a cell and pressing shift + enter. An sterisk between two square brackets [*] will appear when the code is running. Once the code is run a number will appear between two square brackets eg [1].
 7. You can run the whole notebook in a single step by clicking on the menu Cell -> Run All.
 8. To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart. This can be useful to start over a computation from scratch (e.g. variables are deleted, open files are closed, etc.).
+
+##Results: 
+After running the script you will see scatter graphs for each dataset along with the best fit line. The means, mav and min are calculated for each 'x' and 'y' value in the dataset along with the standard deviation. The values of 'm' and 'c' in the equation of the line are also calculated. These values help determine the best fit line.
+
+The above calculations and plots are discussed in more detail in the script.
