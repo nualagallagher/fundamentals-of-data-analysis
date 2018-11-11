@@ -7,7 +7,7 @@ Anscombe's Quartet is a great demonstration that datasets that are very similar 
 
 
 ## Running the python script in Jupyter Notebook:
-To run the script to invesigate the data of Anscombe's Quarteet you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python).
+To run the script to invesigate the data of Anscombe's Quartet you must have already downloaded Visual Studio Code (https://code.visualstudio.com/) and Python (https://anaconda.org/anaconda/python).
 
 1. Please find the script in the file fundamentals of data analysis assignment.ipynb within the Fundamentals of Data Analysis Depository. Copy this code and save to a new file or download it. Name it as you desire
 2. Open Visual Studio Code (VSC).
